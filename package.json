@@ -1,0 +1,19 @@
+{
+  "name": "react-flickr-feed",
+  "version": "1.0.0",
+  "description": "React Flickr Feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acarrau/react-flickr-feed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acarrau/react-flickr-feed/issues"
+  },
+  "homepage": "https://github.com/acarrau/react-flickr-feed#readme"
+}
